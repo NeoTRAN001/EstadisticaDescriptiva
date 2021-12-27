@@ -5,3 +5,5 @@ install.packages("magic", dep = TRUE)
 library(magic)
 
 magic(6)
+
+installed.packages() # Ver todos los packages que se han instalado antes
