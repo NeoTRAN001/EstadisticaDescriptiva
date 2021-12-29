@@ -48,3 +48,8 @@ factorial(7)
 
 choose(5, 3)
 
+choose(3, 5)
+
+6 ^ log(4, 6)
+
+log(4^6, 4)
